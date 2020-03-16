@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-project",
+  "version": "1.0.0",
+  "description": "Sample project to run tests using testcafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.8.2"
+  }
+}
